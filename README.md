@@ -19,7 +19,7 @@ PV diagram with different rolling piston model
 ![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/pv.png)
 
 A novel model
-![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/pv.png)
+![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/resonance.png)
 
 Outlet slice with temperature 
 ![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/temp.png)
