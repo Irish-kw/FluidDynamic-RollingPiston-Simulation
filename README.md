@@ -1,7 +1,13 @@
 # FluidDynamic-RollingPiston-Simulation
 FluidDynamic-RollingPiston-Simulation
 
-This is my thesis.                                                                             
+This is my thesis, and Prof.Hsu re-write submit to journal.
+
+Li-Chieh Hsu*, Fu-Shun Hsu, Guo-Wei Wong, Po-Jui Lu, Ying-Chien Chen, 2020, 
+Numerical Simulation for Flow of Rolling Piston Type of Rotary Compressor, Energies, Vol.13, No.2526, pp.1-25. (SCI)
+
+
+
 Using R410 to simulation rolling piston characteristic such as velocity field、temperature、stream line、Mach number....etc.
 And also validation with real rolling piston.
 
